@@ -73,7 +73,7 @@ h1 {
 .page__section-title::after {
   content: "";
   display: block;
-  background-image: url(./images/crown.svg);
+  background-image: url(../images/crown.svg);
   background-position: center;
   background-size: contain;
   height: 16px;
@@ -92,19 +92,19 @@ h1 {
 }
 
 .icon--menu {
-  background-image: url(./images/menu.svg);
+  background-image: url(../images/menu.svg);
 }
 
 .icon--menu:hover {
-  background-image: url(./images/menu_hover.svg);
+  background-image: url(../images/menu_hover.svg);
 }
 
 .icon--phone {
-  background-image: url(./images/phone.svg);
+  background-image: url(../images/phone.svg);
 }
 
 .icon--cross {
-  background-image: url(./images/cross.svg);
+  background-image: url(../images/cross.svg);
 }
 
 .logo__image {
