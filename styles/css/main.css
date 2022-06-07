@@ -148,7 +148,7 @@ h1 {
 }
 
 .header {
-  background-image: url(../images/header.jpg);
+  background-image: url(./styles/images/header.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -1731,7 +1731,7 @@ h1 {
   -webkit-box-align: end;
       -ms-flex-align: end;
           align-items: flex-end;
-  background-image: url(../images/footer.png);
+  background-image: url(./styles/images/footer.png);
   padding-bottom: 24px;
   height: 320px;
   background-size: cover;
