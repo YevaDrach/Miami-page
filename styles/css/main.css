@@ -104,7 +104,7 @@ h1 {
 }
 
 .icon--cross {
-  background-image: url(././images/cross.svg);
+  background-image: url(./images/cross.svg);
 }
 
 .logo__image {
@@ -1731,7 +1731,7 @@ h1 {
   -webkit-box-align: end;
       -ms-flex-align: end;
           align-items: flex-end;
-  background-image: url(./styles/images/footer.png);
+  background-image: url(./images/footer.png);
   padding-bottom: 24px;
   height: 320px;
   background-size: cover;
