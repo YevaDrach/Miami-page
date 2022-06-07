@@ -96,15 +96,15 @@ h1 {
 }
 
 .icon--menu:hover {
-  background-image: url(./styles/images/menu_hover.svg);
+  background-image: url(./images/menu_hover.svg);
 }
 
 .icon--phone {
-  background-image: url(./styles/images/phone.svg);
+  background-image: url(./images/phone.svg);
 }
 
 .icon--cross {
-  background-image: url(./styles/images/cross.svg);
+  background-image: url(./images/cross.svg);
 }
 
 .logo__image {
