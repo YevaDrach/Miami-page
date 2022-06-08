@@ -24,6 +24,10 @@ h1 {
   background: #eee;
 }
 
+.page__body--with-menu {
+  overflow: hidden;
+}
+
 .page__menu {
   position: fixed;
   top: 0;
